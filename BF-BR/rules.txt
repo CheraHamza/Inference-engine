@@ -1,0 +1,6 @@
+farine + beurre + oeufs + sel = pate
+pommes + sucre = pommes sucrées
+pommes sucrées + pate = tarte pommes
+abricots + pate = tarte abricots
+poires + pate = tarte poires
+cerises + pate = tarte cerises

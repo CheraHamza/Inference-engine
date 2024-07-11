@@ -1,0 +1,7 @@
+A = E
+B = D
+H = A
+E + G = C
+E + K = B
+D + K = C
+G + K + F = A

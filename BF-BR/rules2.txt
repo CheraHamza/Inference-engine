@@ -1,0 +1,9 @@
+A + B = F
+F + H = I
+D + H + G = A
+O + G = H
+E + H = B
+G + A = B
+G + H = P
+G + H = Q
+D + O + G = J

@@ -1,0 +1,10 @@
+B + A = C
+B + E = F
+A + C + F = K
+C + E = G
+D = B
+K + H + D = G
+C = F
+D = C
+A + D + B = C
+B + D = G
